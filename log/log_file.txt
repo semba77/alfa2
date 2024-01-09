@@ -1,0 +1,18 @@
+opening file: startfile.txt on date 2024-01-08 20:07:03.615337 
+counting the repetense of words in text on date 2024-01-08 20:07:03.616337 
+ making sure that the word: akakakaka meets the conditions
+conditions met
+making compresion for akakakaka on date 2024-01-08 20:07:03.619335 
+deconstructing akakakaka on date 2024-01-08 20:07:03.619335 
+akakakaka is in 2. category of lenght on date 2024-01-08 20:07:03.619335 
+reconstructing akak. on date 2024-01-08 20:07:03.619335 
+ making sure that the word: sefnsvsfkjns meets the conditions
+ making sure that the word: lkrmvfdlkv meets the conditions
+ making sure that the word: fnmosfnsof meets the conditions
+ making sure that the word: akakakake meets the conditions
+conditions met
+making compresion for akakakake on date 2024-01-08 20:07:03.624332 
+deconstructing akakakake on date 2024-01-08 20:07:03.624332 
+akakakake is in 2. category of lenght on date 2024-01-08 20:07:03.624332 
+reconstructing akak. on date 2024-01-08 20:07:03.624332 
+program ended on date 2024-01-08 20:07:03.625332
